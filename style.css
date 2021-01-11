@@ -1,0 +1,154 @@
+body {
+    background-color: #303030;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle {
+width: 960px;
+margin: 20px;
+text-align: center;
+}
+.square{
+    width: 50%;
+    float: left;
+}
+
+.logo{
+    float: left;
+    font-family: 'Lora', serif;
+    font-size: 50px;
+    width:600px;
+    text-align: left;
+}
+#clock{
+    float: left;
+    font-size: 50px;
+    text-align: left;
+}
+.tile1{
+    margin: 10px;
+    width:230px;
+    height:142px;
+    background-color: rgb(36, 163, 163);
+    float: left;
+    text-align: center;
+}
+
+.tile1:hover{
+    background-color: rgb(36, 153, 153);
+}
+.tile2{
+    margin: 10px;
+    width:230px;
+    height:142px;
+    background-color: rgb(255, 226, 61);
+    float: left;
+    text-align: center;
+}
+
+.tile2:hover{
+    background-color: rgb(255, 216, 51);
+}
+
+.tile3{
+    margin: 10px;
+    width:230px;
+    height:142px;
+    background-color: rgb(48, 150, 48);
+    float: left;
+    text-align: center;
+}
+
+.tile3:hover{
+    background-color: rgb(48, 140, 38);
+}
+.tile4{
+    margin: 10px;
+    width: 480px;
+    height:127px;
+    background-color: rgb(224, 70, 70);
+    float: left;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 25px;
+}
+
+.tile4:hover{
+    background-color: rgb(224, 60, 60);
+}
+
+.tile5{
+    margin: 10px;
+    width:360px;
+    height:184px;
+    background-color: #666666;
+    text-align: justify;
+    padding: 60px;
+}
+
+.tile5:hover{
+    background-color: #555555;
+}
+
+.yt {
+    margin: 10px;
+    width: 105px;
+    background-color: rgb(224, 70, 70);
+    float: left;
+    height:142px;
+    text-align: center;
+    font-size: 80px;
+}
+.yt:hover{
+    background-color: rgb(224, 60, 60);
+}
+
+.f {
+    margin: 10px;
+    width: 105px;
+    background-color: rgb(70, 111, 224);
+    float: left;
+    height:142px;
+    font-size: 80px;
+}
+
+.f:hover{
+    background-color:rgb(70, 101, 214);
+}
+
+.g {
+    margin: 10px;
+    width: 105px;
+    background-color: rgb(245, 80, 30);
+    float: left;
+    height:142px;
+    font-size: 80px;
+}
+.g:hover{
+    background-color:rgb(245, 70, 20);
+}
+.in {
+    margin: 10px;
+    width: 105px;
+    background-color: rgb(60, 74, 83);
+    float: left;
+    height:142px;
+    font-size: 80px;
+}
+
+.in:hover{
+    background-color:rgb(60, 64, 73);
+}
+
+a.tilelink{
+    color: white;
+    text-decoration: none;
+    display: block;   
+}
